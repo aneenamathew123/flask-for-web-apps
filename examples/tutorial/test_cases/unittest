@@ -1,2 +1,13 @@
 import sys
 import pytest
+import flaskr as f
+
+
+def test_create_app():
+    app = f.create_app()
+    
+
+
+
+
+
